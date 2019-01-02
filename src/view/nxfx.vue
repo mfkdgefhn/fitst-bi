@@ -229,3 +229,9 @@ export default {
   min-width: 850px;
 }
 </style>
+
+<style>
+.cell {
+  height: 25px;
+}
+</style>
